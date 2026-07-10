@@ -5,5 +5,4 @@
 ---
 
 ## Properties  
- **Style**: Pixel font  
  **Weight**: Regular
