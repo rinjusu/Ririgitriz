@@ -1,2 +1,8 @@
 # Ririgitriz
- Ririgitriz is a pixel font for 'Ratroyings' still need update.
+
+**Ririgitriz** is a pixel-style font.
+
+---
+
+## Properties  
+ **Weight**: Regular
