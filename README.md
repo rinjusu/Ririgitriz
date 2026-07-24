@@ -6,3 +6,8 @@
 
 ## Properties  
  **Weight**: Regular
+
+---
+
+
+![preview 1](./Fontview1.png)
