@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1781174582
-ModificationTime: 1784896109
+ModificationTime: 1784897108
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -6550,8 +6550,8 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 77
-Width: 11
-Flags: HW
+Width: 19
+Flags: HWO
 LayerCount: 2
 EndChar
 EndChars
