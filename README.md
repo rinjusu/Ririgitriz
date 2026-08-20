@@ -8,10 +8,11 @@
 
 | Property | Value |
 | :--- | :--- |
-| **Style** | Pixel Handdrawn |
+| **Style** | Pixel Handdrawn & Manually Pixeled |
 | **Weight** | Regular |
 | **Em Square (Grid Size)** | 48 × 48 pixels |
-| **FontForge Metrics** | Ascent: 40, Descent: 8 |
+| **FontForge Settings** | Ascent: 40, Descent: 8 |
+| **Character Set** | Alphabet (Handdrawn), Numbers (Handdrawn), Symbols (Mixed Handdrawn & Manually Pixeled) |
 | **Format** | TTF |
 | **License** | [SIL Open Font License (OFL)](LICENSE) |
  
