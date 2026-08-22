@@ -1,6 +1,6 @@
 # Ririgitriz
 
-**Ririgitriz** is a pixel-style font. Intended for my pixel game, but turn out it's not a good font, this is my first font i made. Thanks for seeing this font!
+**Ririgitriz** is a pixel-style font. Intended for my pixel game, this is my first font i made. Thanks for seeing this font!
 
 ---
 
