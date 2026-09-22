@@ -1,6 +1,6 @@
-# Ririgitriz
+# Ririgitriz - Free Pixel Art Font
 
-**Ririgitriz** is a pixel-style font. Intended for my pixel game, this is my first font i made. Thanks for seeing this font!
+Ririgitriz is a modern pixel-style font created for indie games, UI design, and digital art. Intended for my own pixel game, this .ttf font is hand-drawn on a 48x48 grid.
 
 ---
 
