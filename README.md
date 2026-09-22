@@ -19,5 +19,5 @@
 ---
 
 
-![preview 1](./Ririgitriz)
-![preview 2](./Fontview1.png)
+![Ririgitriz pixel font, font title preview](./Ririgitriz)
+![Ririgitriz all pixel Character set preview](./Fontview1.png)
