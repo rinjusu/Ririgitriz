@@ -19,5 +19,5 @@ Ririgitriz is a modern pixel-style font created for indie games, UI design, and 
 ---
 
 
-![Ririgitriz pixel font, font title preview](./Ririgitriz)
+![Ririgitriz pixel font, font title preview](./Ririgitriz.png)
 ![Ririgitriz all pixel Character set preview](./Fontview1.png)
